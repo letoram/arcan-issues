@@ -1,1 +1,1 @@
-{"author":{"id":"d106d653e8a8836cd251093d17a213f7cacffc0fee5cb91de13af182f47564b9"},"ops":[{"type":4,"timestamp":1669399670,"nonce":"Qv33b2vBEJZh0t+rOqIyEhGLE5Y=","status":2},{"type":4,"timestamp":1669399671,"nonce":"eZgFC38VkfBmlEaB0rtxpiGXRc4=","status":1}]}
+{"author":{"id":"d106d653e8a8836cd251093d17a213f7cacffc0fee5cb91de13af182f47564b9"},"ops":[{"type":5,"timestamp":1669399774,"nonce":"vPlxdFjvN8HGIvGXtiVQky1YtNw=","added":["qemu"],"removed":null}]}
