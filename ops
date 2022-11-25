@@ -1,1 +1,1 @@
-{"author":{"id":"d106d653e8a8836cd251093d17a213f7cacffc0fee5cb91de13af182f47564b9"},"ops":[{"type":5,"timestamp":1669399806,"nonce":"50Mkeq0XH8vQEOWqP9NhOaJhZS4=","added":["feature"],"removed":null}]}
+{"author":{"id":"d106d653e8a8836cd251093d17a213f7cacffc0fee5cb91de13af182f47564b9"},"ops":[{"type":2,"timestamp":1669399847,"nonce":"DBnq2oEmVVEybIXfHw8dXPvyApA=","title":"[qemu] support hardware accelerated mouse cursor","was":"support hardware accelerated mouse cursor"},{"type":5,"timestamp":1669399859,"nonce":"nnanZgNHiNinfqr4htNSkZx2wnk=","added":null,"removed":["qemu"]}]}
