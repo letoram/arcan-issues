@@ -1,0 +1,1 @@
+{"author":{"id":"d106d653e8a8836cd251093d17a213f7cacffc0fee5cb91de13af182f47564b9"},"ops":[{"type":1,"timestamp":1669424616,"nonce":"BeLl1FBo7tp3reF9K7cQSrHVciw=","title":"[qemu] synch, cleanup, upstream","message":"Make sure that we are close to upstream in version and that the code follows\nthe standards the upstream project sets and try to get accepted.","files":null}]}
